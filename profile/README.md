@@ -2,7 +2,7 @@
 
 Welcome to WD_BYPASS
 
-If you are seeing this, you have accidentally stumbled upon this, or are a dev.
+If you are seeing this, you have accidentally stumbled upon this.
 <!--
 
 **Here are some ideas to get you started:**
