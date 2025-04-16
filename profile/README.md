@@ -2,7 +2,7 @@
 
 Welcome to WD_BYPASS
 
-If you are seeing this, you have accidentally stumbled upon this.
+Currently, most important files are private, encrypted, and/or password protected, and thus require application.  The link to the application form is here: https://docs.google.com/forms/d/e/1FAIpQLSfwWFC3ddg01TolzNDJIavyob24AsxQDWwlzrZmbBT04yyVdQ/viewform?usp=header
 <!--
 
 **Here are some ideas to get you started:**
